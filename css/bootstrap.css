@@ -1965,7 +1965,7 @@ pre code {
     width: 16.66666667%;
   }
   .col-md-1 {
-    width: 8.33333333%;
+    width: 15.33333333%;
   }
   .col-md-pull-12 {
     right: 100%;
@@ -3097,8 +3097,8 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #fff;
-  background-color: #286090;
-  border-color: #204d74;
+  background-color: #030303;
+  border-color: #0a0a0b;
 }
 .btn-primary:active,
 .btn-primary.active,
